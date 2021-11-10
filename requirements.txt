@@ -1,13 +1,4 @@
-bottle==0.12.13
-certifi==2018.8.13
-chardet==3.0.4
-idna==2.7
-nltk>=3.4.5
-oauthlib==2.1.0
-PySocks==1.6.8
-requests>=2.20.0
-requests-oauthlib==1.0.0
-six==1.11.0
-textblob==0.15.1
-tweepy==3.6.0
-urllib3>=1.24.2
+tweepy~=4.3.0
+bottle~=0.12.19
+textblob~=0.17.1
+fastapi~=0.70.0
